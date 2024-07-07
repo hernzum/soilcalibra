@@ -48,10 +48,7 @@ Conecta los componentes de la siguiente manera:
      - `FS`
 
 3. **Cargar el Código:**
-   - Copia y pega el siguiente código en el IDE de Arduino:
-     ```cpp
-     // (Incluir el código del sketch aquí)
-     ```
+   - Copia y pega el scódigo en el IDE de Arduino:
    - Configura el IDE de Arduino para usar la placa `LOLIN(WEMOS) D1 R2 & mini` (u otra compatible con ESP8266).
    - Carga el código en tu ESP8266.
 
